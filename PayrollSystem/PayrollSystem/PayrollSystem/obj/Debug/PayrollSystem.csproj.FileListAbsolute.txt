@@ -1,0 +1,16 @@
+C:\Users\ywu\Documents\UCM application-YYW\C sharp-08022022\Yuanyuan Wu\SourceCode\ch12\Fig12_04_09\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\ywu\Documents\UCM application-YYW\C sharp-08022022\Yuanyuan Wu\SourceCode\ch12\Fig12_04_09\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\ywu\Documents\UCM application-YYW\C sharp-08022022\Yuanyuan Wu\SourceCode\ch12\Fig12_04_09\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\ywu\Documents\UCM application-YYW\C sharp-08022022\Yuanyuan Wu\SourceCode\ch12\Fig12_04_09\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.csproj.AssemblyReference.cache
+C:\Users\ywu\Documents\UCM application-YYW\C sharp-08022022\Yuanyuan Wu\SourceCode\ch12\Fig12_04_09\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\ywu\Documents\UCM application-YYW\C sharp-08022022\Yuanyuan Wu\SourceCode\ch12\Fig12_04_09\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.csproj.CoreCompileInputs.cache
+C:\Users\ywu\Documents\UCM application-YYW\C sharp-08022022\Yuanyuan Wu\SourceCode\ch12\Fig12_04_09\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.exe
+C:\Users\ywu\Documents\UCM application-YYW\C sharp-08022022\Yuanyuan Wu\SourceCode\ch12\Fig12_04_09\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.pdb
+C:\Users\ywu\Documents\UCM application-YYW\C sharp-08022022\Yuanyuan Wu\final Exam\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\ywu\Documents\UCM application-YYW\C sharp-08022022\Yuanyuan Wu\final Exam\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\ywu\Documents\UCM application-YYW\C sharp-08022022\Yuanyuan Wu\final Exam\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\ywu\Documents\UCM application-YYW\C sharp-08022022\Yuanyuan Wu\final Exam\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.csproj.AssemblyReference.cache
+C:\Users\ywu\Documents\UCM application-YYW\C sharp-08022022\Yuanyuan Wu\final Exam\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\ywu\Documents\UCM application-YYW\C sharp-08022022\Yuanyuan Wu\final Exam\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.csproj.CoreCompileInputs.cache
+C:\Users\ywu\Documents\UCM application-YYW\C sharp-08022022\Yuanyuan Wu\final Exam\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.exe
+C:\Users\ywu\Documents\UCM application-YYW\C sharp-08022022\Yuanyuan Wu\final Exam\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.pdb
